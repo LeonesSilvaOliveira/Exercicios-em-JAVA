@@ -1,5 +1,5 @@
 Exercícios - Java
-Os mesmos exercícios do semestre passado, feitos em C#, agora, recriados em Java.
+
 
 Atenção: QUALQUER tipo de correção é bem vinda, sinta-se à vontade para me enviar pull requests, issues, alterações na wiki, etc...
 
